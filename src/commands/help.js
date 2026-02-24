@@ -32,7 +32,7 @@ export default {
 
         .setColor("Blue")
 
-        .setTitle("🆘 VORTEX DEPLOY - Command Help")
+        .setTitle("🆘 CubeCloudHost DEPLOY - Command Help")
 
         .setDescription("Here’s a list of all available commands organized by category 📂\nSelect a category from the menu below for details.")
 
