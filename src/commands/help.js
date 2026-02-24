@@ -202,7 +202,7 @@ export default {
 
         if(categoryEmbed) {
 
-          categoryEmbed.setFooter({ text: "⚡ Made by Okami | Vortex Deploy 👑" }).setTimestamp();
+          categoryEmbed.setFooter({ text: "⚡ Made by Okami | CubeCloudHost Deploy 👑" }).setTimestamp();
 
           await i.update({ embeds: [categoryEmbed], components: [row] });
 
