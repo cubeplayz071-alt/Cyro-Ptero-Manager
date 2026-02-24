@@ -1,5 +1,5 @@
 // ======================================================
-// ⚔️ VORTEX DEPLOY - Ultimate Slash Command Handler
+// ⚔️ CubeCloudHost DEPLOY - Ultimate Slash Command Handler
 // 🌐 Made by Okami | Asia/Kolkata
 // ======================================================
 
