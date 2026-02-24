@@ -1,5 +1,5 @@
 // ======================================================
-// 🎨 VORTEX DEPLOY - EMBED SYSTEM
+// 🎨 CubeCloudHost DEPLOY - EMBED SYSTEM
 // ⚡ Made by Okami | Asia/Kolkata
 // ======================================================
 
@@ -7,7 +7,7 @@ import { EmbedBuilder } from "discord.js";
 import moment from "moment-timezone";
 
 // 📦 Configurable Constants
-const FOOTER = process.env.FOOTER_TEXT || "⚡ Made by Okami | Vortex Deploy 👑";
+const FOOTER = process.env.FOOTER_TEXT || "⚡ Made by Okami | CubeCloudHost Deploy 👑";
 const TIMEZONE = process.env.TIMEZONE || "Asia/Kolkata";
 
 // 🕒 Utility Function: Get Local Time
