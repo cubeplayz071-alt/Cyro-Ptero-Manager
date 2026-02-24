@@ -1,8 +1,8 @@
 // ======================================================
 
-// 👥 VORTEX DEPLOY - /userslist (Correct Server Count)
+// 👥 CubeCloudHost DEPLOY - /userslist (Correct Server Count)
 
-// 👑 Footer: Vortex Deploy 👑
+// 👑 Footer: CubeCloudHost Deploy 👑
 
 // ======================================================
 
