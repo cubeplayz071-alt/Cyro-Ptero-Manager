@@ -1,5 +1,5 @@
 // ======================================================
-// 🖥️ VORTEX DEPLOY - /panelstatus (v2)
+// 🖥️ CubeCloudHost DEPLOY - /panelstatus (v2)
 // ⚡ Made by Okami | Asia/Kolkata
 // ======================================================
 
@@ -43,7 +43,7 @@ export default {
           { name: "🧠 Nodes", value: `\`${panelData.nodes.length}\` active`, inline: true },
           { name: "📋 Nodes List", value: nodesList.slice(0, 1024) }
         )
-        .setFooter({ text: "⚡ Made by Okami | Vortex Deploy 👑" })
+        .setFooter({ text: "⚡ Made by Okami | CubeCloudHost Deploy 👑" })
         .setTimestamp();
 
       if (!interaction.replied) {
