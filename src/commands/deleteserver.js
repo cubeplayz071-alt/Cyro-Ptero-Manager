@@ -1,5 +1,5 @@
 // ======================================================
-// ❌ VORTEX DEPLOY - /deleteserver Command
+// ❌ CubeCloudHost - /deleteserver Command
 // ⚡ Made by Okami | Asia/Kolkata
 // ======================================================
 
@@ -73,7 +73,7 @@ export default {
         .setColor("Red")
         .setTitle("❌ Failed to Delete Server")
         .setDescription(`Error: ${err.message}`)
-        .setFooter({ text: "⚡ Made by Okami | Vortex Deploy 👑" })
+        .setFooter({ text: "⚡ Made by Okami | CubeCloudHost 👑" })
         .setTimestamp();
 
       await interaction.editReply({ embeds: [embed] });
