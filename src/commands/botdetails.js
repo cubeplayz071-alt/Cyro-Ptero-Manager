@@ -58,7 +58,7 @@ export default {
 
           value:
 
-            "**Name:** Abinash\n" +
+            "**Name:** CubePlayz\n" +
 
             "**Role:** Founder & Developer\n" +
 
@@ -72,7 +72,7 @@ export default {
 
           name: "🌐 Support Server",
 
-          value: "[Join Support Server](https://discord.gg/N5Jy9XdV2b)",
+          value: "[Join Support Server](https://discord.gg/eWcU9eYBu5)",
 
           inline: false
 
@@ -80,7 +80,7 @@ export default {
 
       )
 
-      .setFooter({ text: "Made with ❤️ by Abinash" })
+      .setFooter({ text: "Made with ❤️ by CubePlayz" })
 
       .setTimestamp();
 
@@ -92,7 +92,7 @@ export default {
 
         .setStyle(ButtonStyle.Link)
 
-        .setURL("https://discord.gg/N5Jy9XdV2b")
+        .setURL("https://discord.gg/eWcU9eYBu5")
 
     );
 
