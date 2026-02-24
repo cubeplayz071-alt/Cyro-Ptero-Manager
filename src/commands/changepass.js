@@ -1,8 +1,8 @@
 // ======================================================
 
-// ⚡ VORTEX DEPLOY - /changepass Command
+// ⚡ CubeCloudHost DEPLOY - /changepass Command
 
-// Made by Okami | Vortex Deploy 👑
+// Made by Okami | CubeCloudHost Deploy 👑
 
 // ======================================================
 
