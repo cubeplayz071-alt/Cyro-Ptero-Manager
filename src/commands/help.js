@@ -1,6 +1,6 @@
 // ======================================================
 
-// 🆘 VORTEX DEPLOY - /help Command (WORLD-BEST)
+// 🆘 CubeCloudHost - /help Command (WORLD-BEST)
 
 // ⚡ Made by Okami | Asia/Kolkata
 
@@ -36,7 +36,7 @@ export default {
 
         .setDescription("Here’s a list of all available commands organized by category 📂\nSelect a category from the menu below for details.")
 
-        .setFooter({ text: "⚡ Made by Okami | Vortex Deploy 👑" })
+        .setFooter({ text: "⚡ Made by Okami | CubeCloudHost 👑" })
 
         .setTimestamp();
 
@@ -240,7 +240,7 @@ export default {
 
         .setDescription(`Error: ${err.message}`)
 
-        .setFooter({ text: "⚡ Made by Okami | Vortex Deploy 👑" })
+        .setFooter({ text: "⚡ Made by Okami | CubeCloudHost 👑" })
 
         .setTimestamp();
 
