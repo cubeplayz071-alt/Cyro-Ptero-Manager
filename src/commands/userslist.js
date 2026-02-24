@@ -136,7 +136,7 @@ export default {
 
           })
 
-          .setFooter({ text: "Made By Okami | Vortex Deploy 👑" })
+          .setFooter({ text: "Made By Okami | CubeCloudHost Deploy 👑" })
 
           .setTimestamp();
 
@@ -154,7 +154,7 @@ export default {
 
               .setDescription(`❌ Error: ${err.message}`)
 
-              .setFooter({ text: "Made By Okami | Vortex Deploy 👑" })
+              .setFooter({ text: "Made By Okami | CubeCloudHost Deploy 👑" })
 
           ]
 
