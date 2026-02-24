@@ -1,5 +1,5 @@
 // ======================================================
-// ⚙️ VORTEX DEPLOY - PTERODACTYL API WRAPPER
+// ⚙️ CubeCloudHost DEPLOY - PTERODACTYL API WRAPPER
 // ⚡ Made by Okami | Asia/Kolkata
 // ======================================================
 
