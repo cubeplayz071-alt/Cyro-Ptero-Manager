@@ -1,8 +1,8 @@
 // ======================================================
 
-// ❌ VORTEX DEPLOY - /deleteuser Command
+// ❌ CubeCloudHost DEPLOY - /deleteuser Command
 
-// 👑 Vortex Deploy
+// 👑 CubeCloudHost Deploy
 
 // ======================================================
 
