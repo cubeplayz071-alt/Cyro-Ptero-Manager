@@ -1,8 +1,8 @@
 // ======================================================
 
-// ➕ VORTEX DEPLOY - /createuser Command (WORLD BEST)
+// ➕ CubeCloudHost - /createuser Command (WORLD BEST)
 
-// ⚡ Made by Okami | Vortex Deploy 👑
+// ⚡ Made by Okami | CubeCloudHost Deploy 👑
 
 // ======================================================
 
@@ -188,7 +188,7 @@ export default {
 
         )
 
-        .setFooter({ text: "⚡ Made by Okami | Vortex Deploy 👑" })
+        .setFooter({ text: "⚡ Made by Okami | CubeCloudHost 👑" })
 
         .setTimestamp();
 
