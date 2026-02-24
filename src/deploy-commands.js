@@ -1,6 +1,6 @@
 // ======================================================
 
-// ⚡ VORTEX DEPLOY - Deploy Commands Script
+// ⚡ CubeCloudHost - Deploy Commands Script
 
 // Made by Okami | Asia/Kolkata
 
