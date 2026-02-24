@@ -1,5 +1,5 @@
 // ======================================================
-// 🤖 VORTEX DEPLOY - /botstatus (v2)
+// 🤖 CubeCloudHost DEPLOY - /botstatus (v2)
 // ⚡ Made by Okami | Asia/Kolkata
 // ======================================================
 
@@ -10,7 +10,7 @@ import moment from "moment-timezone";
 export default {
   data: new SlashCommandBuilder()
     .setName("botstatus")
-    .setDescription("📊 View the live status of Vortex Deploy bot."),
+    .setDescription("📊 View the live status of CubeCloudHost Deploy bot."),
 
   async execute(interaction) {
     await interaction.deferReply();
@@ -24,7 +24,7 @@ export default {
 
       const embed = new EmbedBuilder()
         .setColor("Aqua")
-        .setAuthor({ name: "⚙️ VORTEX DEPLOY - Bot Status" })
+        .setAuthor({ name: "⚙️ CubeCloudHost DEPLOY - Bot Status" })
         .setDescription("💫 Live monitoring of the bot every **10 seconds** 🔄")
         .addFields(
           { name: "📡 Ping", value: `\`${botPing}ms\``, inline: true },
